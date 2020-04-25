@@ -14,7 +14,7 @@
 
 ## 在线oj
 - [浙大-jarvisoj](https://www.jarvisoj.com/)
-- [上交-0opsoj](https://ctfzone.org/)
+- [上交-0opsoj](https://ctfzone.sjtu.cn/)
 
 ## 工具和资源
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)
